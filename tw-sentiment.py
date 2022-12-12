@@ -1,7 +1,7 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from scipy.special import softmax
 
-tweet = "Layoff sucks"
+tweet = "Hey!! Happy Sunday 😁"
 
 #preprocessing
 
